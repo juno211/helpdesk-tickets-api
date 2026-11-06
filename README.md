@@ -4,7 +4,7 @@
 
 A REST API for helpdesk tickets, built with **Azure Functions (Python v2 model)** and deployed to **Microsoft Azure**. It supports full CRUD, protects every endpoint with an API key, and stores tickets in an in-memory repository.
 
-**Live base URL:** `https://<your-function-app-url>/api` *(the API key is required on every request)*
+**Live base URL:** `https://liam-helpdesk-api-2026-gth4dgfzhncjchgu.northcentralus-01.azurewebsites.net/api` *(the API key is required on every request)*
 
 ---
 
